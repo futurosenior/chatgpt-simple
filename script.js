@@ -1,7 +1,7 @@
 const inputPergunta = document.getElementById("inputPergunta");
 const resultadoIA = document.getElementById("resultadoIA");
 
-const OPENAI_API_KEY = "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";
+const OPENAI_API_KEY = "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";
 
 function EnviarPergunta() {
 	var valorPergunta = inputPergunta.value;
